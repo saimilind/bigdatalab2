@@ -1,0 +1,1 @@
+This is a sample input text. It contains some common words such as the, and, of, a, and to.
