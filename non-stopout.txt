@@ -1,0 +1,10 @@
+"some"  1
+"contains"      1
+"input" 1
+"sample"        1
+"this"  1
+"common"        1
+"such"  1
+"text"  1
+"as"    1
+"words" 1
